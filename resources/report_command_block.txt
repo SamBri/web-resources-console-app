@@ -1,0 +1,1 @@
+result generate:students --all
